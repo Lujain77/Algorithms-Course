@@ -1,1 +1,1 @@
-# Algorithms-Course
+# Algorithms-Course : Snake Game - Python
