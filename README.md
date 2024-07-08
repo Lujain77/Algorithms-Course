@@ -1,3 +1,3 @@
 # Algorithms-Course : Snake Game - Python
 
-![Snake Image](images/snake1.png)
+![Snake Image]("C:\Users\lolo3\Downloads\snake1.png")
